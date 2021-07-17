@@ -84,20 +84,3 @@ contract Campaign {
         
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
